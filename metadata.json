@@ -1,0 +1,5 @@
+{
+  "name": "testpbl",
+  "description": "A collaborative Project-Based Learning platform that balances teams based on mastery scores and uses AI to generate guided project curriculums.",
+  "requestFramePermissions": []
+}
